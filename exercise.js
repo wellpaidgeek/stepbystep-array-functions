@@ -20,7 +20,7 @@ toFixed:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed
 
-Example useage:
+Example usage:
 
 var prices = [
 	20,
